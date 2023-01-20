@@ -73,7 +73,7 @@ p:first-child {
     flex-direction: column;
     background-color: #1f2937;
     color: white;
-    gap: 20%;
+    gap: 20px;
 }
 
 audio{
